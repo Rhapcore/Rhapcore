@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132" role="img" aria-label="−41 % de código al cargar la web, +500 pruebas automáticas en web y API, +250 versiones de la API en producción, 🔐 credenciales en un gestor de secretos">
+  <g font-family="Roboto, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <g>
+    <rect x="14" y="14" width="202" height="104" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="14" y="14" width="202" height="4" rx="2" fill="#2E7D32"/>
+    <text x="115" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#2E7D32">−41 %</text>
+    <text x="115" y="88" text-anchor="middle" font-size="13" fill="#57606A">de código al cargar la</text><text x="115" y="105" text-anchor="middle" font-size="13" fill="#57606A">web</text>
+  </g>
+  <g>
+    <rect x="230" y="14" width="202" height="104" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="230" y="14" width="202" height="4" rx="2" fill="#2E7D32"/>
+    <text x="331" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#2E7D32">+500</text>
+    <text x="331" y="88" text-anchor="middle" font-size="13" fill="#57606A">pruebas automáticas en</text><text x="331" y="105" text-anchor="middle" font-size="13" fill="#57606A">web y API</text>
+  </g>
+  <g>
+    <rect x="446" y="14" width="202" height="104" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="446" y="14" width="202" height="4" rx="2" fill="#2E7D32"/>
+    <text x="547" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#2E7D32">+250</text>
+    <text x="547" y="88" text-anchor="middle" font-size="13" fill="#57606A">versiones de la API en</text><text x="547" y="105" text-anchor="middle" font-size="13" fill="#57606A">producción</text>
+  </g>
+  <g>
+    <rect x="662" y="14" width="202" height="104" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="662" y="14" width="202" height="4" rx="2" fill="#2E7D32"/>
+    <text x="763" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#2E7D32">🔐</text>
+    <text x="763" y="88" text-anchor="middle" font-size="13" fill="#57606A">credenciales en un</text><text x="763" y="105" text-anchor="middle" font-size="13" fill="#57606A">gestor de secretos</text>
+  </g>
+  </g>
+</svg>

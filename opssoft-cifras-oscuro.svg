@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132" role="img" aria-label="11 módulos integrados, SaaS multiempresa: cada una elige sus módulos, +900 commits, +2.300 pruebas automáticas">
+  <g font-family="Roboto, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <g>
+    <rect x="14" y="14" width="202" height="104" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="14" y="14" width="202" height="4" rx="2" fill="#42A5F5"/>
+    <text x="115" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#42A5F5">11</text>
+    <text x="115" y="88" text-anchor="middle" font-size="13" fill="#9DA7B3">módulos integrados</text>
+  </g>
+  <g>
+    <rect x="230" y="14" width="202" height="104" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="230" y="14" width="202" height="4" rx="2" fill="#42A5F5"/>
+    <text x="331" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#42A5F5">SaaS</text>
+    <text x="331" y="88" text-anchor="middle" font-size="13" fill="#9DA7B3">multiempresa: cada una</text><text x="331" y="105" text-anchor="middle" font-size="13" fill="#9DA7B3">elige sus módulos</text>
+  </g>
+  <g>
+    <rect x="446" y="14" width="202" height="104" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="446" y="14" width="202" height="4" rx="2" fill="#42A5F5"/>
+    <text x="547" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#42A5F5">+900</text>
+    <text x="547" y="88" text-anchor="middle" font-size="13" fill="#9DA7B3">commits</text>
+  </g>
+  <g>
+    <rect x="662" y="14" width="202" height="104" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="662" y="14" width="202" height="4" rx="2" fill="#42A5F5"/>
+    <text x="763" y="62" text-anchor="middle" font-size="30" font-weight="700" fill="#42A5F5">+2.300</text>
+    <text x="763" y="88" text-anchor="middle" font-size="13" fill="#9DA7B3">pruebas automáticas</text>
+  </g>
+  </g>
+</svg>

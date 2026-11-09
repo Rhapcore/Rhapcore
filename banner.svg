@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="230" viewBox="0 0 880 230" role="img" aria-label="Michael Yañez, Gerente de TI, desarrollador full-stack, nube e IoT">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D47A1"/><stop offset="0.55" stop-color="#1565C0"/><stop offset="1" stop-color="#2E7D32"/>
+    </linearGradient>
+    <clipPath id="recorte"><rect x="8" y="8" width="864" height="206" rx="20"/></clipPath>
+    <filter id="sombra" x="-5%" y="-5%" width="110%" height="120%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.25"/></filter>
+  </defs>
+  <g font-family="Roboto, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="8" y="8" width="864" height="206" rx="20" fill="url(#g)" filter="url(#sombra)"/>
+    <g clip-path="url(#recorte)"><circle cx="790" cy="60" r="90" fill="#FFFFFF" fill-opacity="0.06"/>
+    <circle cx="840" cy="170" r="60" fill="#FFFFFF" fill-opacity="0.05"/></g>
+    <text x="48" y="74" font-size="38" font-weight="700" fill="#FFFFFF">Michael Yañez</text>
+    <text x="48" y="108" font-size="19" font-weight="500" fill="#E3F2FD">Gerente de TI · Desarrollador full-stack · Nube e IoT</text>
+    <text x="48" y="140" font-size="15" fill="#E3F2FD" fill-opacity="0.9">Diseño, construyo y opero plataformas en producción: web, app móvil, API y equipos en terreno.</text>
+    <g><rect x="48" y="164" rx="16" ry="16" width="166" height="32" fill="#FFFFFF" fill-opacity="0.16" stroke="#FFFFFF" stroke-opacity="0.35"/><text x="131" y="185" text-anchor="middle" font-size="14" font-weight="500" fill="#FFFFFF">OpsSoft · ERP/CRM</text></g><g><rect x="224" y="164" rx="16" ry="16" width="270" height="32" fill="#FFFFFF" fill-opacity="0.16" stroke="#FFFFFF" stroke-opacity="0.35"/><text x="359" y="185" text-anchor="middle" font-size="14" font-weight="500" fill="#FFFFFF">Agricultura de precisión e IoT</text></g><g><rect x="504" y="164" rx="16" ry="16" width="110" height="32" fill="#FFFFFF" fill-opacity="0.16" stroke="#FFFFFF" stroke-opacity="0.35"/><text x="559" y="185" text-anchor="middle" font-size="14" font-weight="500" fill="#FFFFFF">Transporte</text></g><g><rect x="624" y="164" rx="16" ry="16" width="102" height="32" fill="#FFFFFF" fill-opacity="0.16" stroke="#FFFFFF" stroke-opacity="0.35"/><text x="675" y="185" text-anchor="middle" font-size="14" font-weight="500" fill="#FFFFFF">Seguridad</text></g>
+  </g>
+</svg>

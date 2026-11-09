@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="286" viewBox="0 0 880 286" role="img" aria-label="Riego: Agenda, sondas de humedad y temperatura, y cálculo del agua aplicada. Maquinaria: Posición GPS al instante y rendimientos por turno. Agronomía: Bitácora de campo con formularios y seguimiento de plagas. Alertas: Avisos por correo y WhatsApp. Asistentes con IA: Consultas técnicas respondidas con Gemini. App móvil: Mapas y ubicación para el trabajo en terreno">
+  <g font-family="Roboto, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <g>
+    <rect x="14" y="14" width="274" height="122" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="14" y="14" width="5" height="122" rx="2" fill="#2E7D32"/>
+    <text x="34" y="48" font-size="20">💧</text>
+    <text x="66" y="47" font-size="15" font-weight="700" fill="#1F2328">Riego</text>
+    <text x="34" y="75" font-size="13" fill="#57606A">Agenda, sondas de humedad y</text><text x="34" y="93" font-size="13" fill="#57606A">temperatura, y cálculo del agua</text><text x="34" y="111" font-size="13" fill="#57606A">aplicada</text>
+  </g>
+  <g>
+    <rect x="302" y="14" width="274" height="122" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="302" y="14" width="5" height="122" rx="2" fill="#2E7D32"/>
+    <text x="322" y="48" font-size="20">🚜</text>
+    <text x="354" y="47" font-size="15" font-weight="700" fill="#1F2328">Maquinaria</text>
+    <text x="322" y="75" font-size="13" fill="#57606A">Posición GPS al instante y</text><text x="322" y="93" font-size="13" fill="#57606A">rendimientos por turno</text>
+  </g>
+  <g>
+    <rect x="590" y="14" width="274" height="122" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="590" y="14" width="5" height="122" rx="2" fill="#2E7D32"/>
+    <text x="610" y="48" font-size="20">🌿</text>
+    <text x="642" y="47" font-size="15" font-weight="700" fill="#1F2328">Agronomía</text>
+    <text x="610" y="75" font-size="13" fill="#57606A">Bitácora de campo con formularios y</text><text x="610" y="93" font-size="13" fill="#57606A">seguimiento de plagas</text>
+  </g>
+  <g>
+    <rect x="14" y="150" width="274" height="122" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="14" y="150" width="5" height="122" rx="2" fill="#2E7D32"/>
+    <text x="34" y="184" font-size="20">🔔</text>
+    <text x="66" y="183" font-size="15" font-weight="700" fill="#1F2328">Alertas</text>
+    <text x="34" y="211" font-size="13" fill="#57606A">Avisos por correo y WhatsApp</text>
+  </g>
+  <g>
+    <rect x="302" y="150" width="274" height="122" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="302" y="150" width="5" height="122" rx="2" fill="#2E7D32"/>
+    <text x="322" y="184" font-size="20">🤖</text>
+    <text x="354" y="183" font-size="15" font-weight="700" fill="#1F2328">Asistentes con IA</text>
+    <text x="322" y="211" font-size="13" fill="#57606A">Consultas técnicas respondidas con</text><text x="322" y="229" font-size="13" fill="#57606A">Gemini</text>
+  </g>
+  <g>
+    <rect x="590" y="150" width="274" height="122" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+    <rect x="590" y="150" width="5" height="122" rx="2" fill="#2E7D32"/>
+    <text x="610" y="184" font-size="20">📍</text>
+    <text x="642" y="183" font-size="15" font-weight="700" fill="#1F2328">App móvil</text>
+    <text x="610" y="211" font-size="13" fill="#57606A">Mapas y ubicación para el trabajo</text><text x="610" y="229" font-size="13" fill="#57606A">en terreno</text>
+  </g>
+  </g>
+</svg>

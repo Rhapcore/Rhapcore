@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="286" viewBox="0 0 880 286" role="img" aria-label="Sitio web público: Cotización y reservas en línea. Sistema interno: Servicios, clientes, tarifas y conductores, para varias organizaciones. API propia: Con bases de datos separadas por seguridad. App para conductores: Asignaciones de servicio, seguimiento de rutas y registro de pasajeros. App de administración: La operación al alcance del teléfono. Agenda colaborativa: Chat por temas, responsabilidades con plazo y CRM">
+  <g font-family="Roboto, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <g>
+    <rect x="14" y="14" width="274" height="122" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="14" y="14" width="5" height="122" rx="2" fill="#FFA726"/>
+    <text x="34" y="48" font-size="20">🌐</text>
+    <text x="66" y="47" font-size="15" font-weight="700" fill="#E6EDF3">Sitio web público</text>
+    <text x="34" y="75" font-size="13" fill="#9DA7B3">Cotización y reservas en línea</text>
+  </g>
+  <g>
+    <rect x="302" y="14" width="274" height="122" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="302" y="14" width="5" height="122" rx="2" fill="#FFA726"/>
+    <text x="322" y="48" font-size="20">🗂️</text>
+    <text x="354" y="47" font-size="15" font-weight="700" fill="#E6EDF3">Sistema interno</text>
+    <text x="322" y="75" font-size="13" fill="#9DA7B3">Servicios, clientes, tarifas y</text><text x="322" y="93" font-size="13" fill="#9DA7B3">conductores, para varias</text><text x="322" y="111" font-size="13" fill="#9DA7B3">organizaciones</text>
+  </g>
+  <g>
+    <rect x="590" y="14" width="274" height="122" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="590" y="14" width="5" height="122" rx="2" fill="#FFA726"/>
+    <text x="610" y="48" font-size="20">🔌</text>
+    <text x="642" y="47" font-size="15" font-weight="700" fill="#E6EDF3">API propia</text>
+    <text x="610" y="75" font-size="13" fill="#9DA7B3">Con bases de datos separadas por</text><text x="610" y="93" font-size="13" fill="#9DA7B3">seguridad</text>
+  </g>
+  <g>
+    <rect x="14" y="150" width="274" height="122" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="14" y="150" width="5" height="122" rx="2" fill="#FFA726"/>
+    <text x="34" y="184" font-size="20">🚐</text>
+    <text x="66" y="183" font-size="15" font-weight="700" fill="#E6EDF3">App para conductores</text>
+    <text x="34" y="211" font-size="13" fill="#9DA7B3">Asignaciones de servicio,</text><text x="34" y="229" font-size="13" fill="#9DA7B3">seguimiento de rutas y registro de</text><text x="34" y="247" font-size="13" fill="#9DA7B3">pasajeros</text>
+  </g>
+  <g>
+    <rect x="302" y="150" width="274" height="122" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="302" y="150" width="5" height="122" rx="2" fill="#FFA726"/>
+    <text x="322" y="184" font-size="20">📱</text>
+    <text x="354" y="183" font-size="15" font-weight="700" fill="#E6EDF3">App de administración</text>
+    <text x="322" y="211" font-size="13" fill="#9DA7B3">La operación al alcance del</text><text x="322" y="229" font-size="13" fill="#9DA7B3">teléfono</text>
+  </g>
+  <g>
+    <rect x="590" y="150" width="274" height="122" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="590" y="150" width="5" height="122" rx="2" fill="#FFA726"/>
+    <text x="610" y="184" font-size="20">🗓️</text>
+    <text x="642" y="183" font-size="15" font-weight="700" fill="#E6EDF3">Agenda colaborativa</text>
+    <text x="610" y="211" font-size="13" fill="#9DA7B3">Chat por temas, responsabilidades</text><text x="610" y="229" font-size="13" fill="#9DA7B3">con plazo y CRM</text>
+  </g>
+  </g>
+</svg>
